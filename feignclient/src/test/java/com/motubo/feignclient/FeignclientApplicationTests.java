@@ -1,4 +1,4 @@
-package com.motubo.eurekaserver;
+package com.motubo.feignclient;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class EurekaserverApplicationTests {
+public class FeignclientApplicationTests {
 
 	@Test
 	public void contextLoads() {
